@@ -43,12 +43,6 @@
 ## GitHub
 
 <p align="center">
-  <img src="https://img.shields.io/github/repos/pedroguilherme-web?style=for-the-badge&label=Public%20repositories&logo=github&color=181717" alt="Public repositories" />
-  <img src="https://img.shields.io/github/followers/pedroguilherme-web?style=for-the-badge&label=Followers&logo=github&color=181717" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/pedroguilherme-web?affiliations=OWNER&style=for-the-badge&label=Stars&logo=github&color=181717" alt="Stars across owned repositories" />
-</p>
-
-<p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=pedroguilherme-web&show_icons=true&theme=dark&hide_border=true" alt="Pedro's GitHub stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroguilherme-web&layout=compact&theme=dark&hide_border=true" alt="Most used languages" />
 </p>

@@ -47,6 +47,10 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroguilherme-web&layout=compact&theme=dark&hide_border=true" alt="Most used languages" />
 </p>
 
+## LinkedIn
+
+[linkedin.com/in/pedroguillherme](https://www.linkedin.com/in/pedroguillherme)
+
 ---
 
 <p align="center"><i>Feel free to explore my projects and see what I'm learning.</i></p>
